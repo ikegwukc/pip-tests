@@ -75,7 +75,6 @@ pip install -e .
 ```
 
 11. Now you can import funniest and call the function joke2 inside of test.py
-```bash
 
 ```python
 import funniest
